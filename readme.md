@@ -12,25 +12,42 @@ A content-based recommendation web application that suggests similar anime title
 
 ## 📸 Screenshots
 
-### 🔍 Search & Interactive Interface
-![Home Page](screenshots/preview.png)
+### 🔍 Interactive Search Interface
+![Search Interface](screenshots/preview.png)
+
+### 🎴 Top 10 Ranked Recommendation Cards
+![Recommendation Results](screenshots/results.png)
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
 - **Content-Based Filtering:** Computes multi-dimensional cosine similarity across metadata features (genres, animation studio, staff, and story synopsis) to recommend relevant titles.
 - **Top-10 Ranked Suggestions:** Returns the top 10 most mathematically similar anime shows with match percentages (e.g. `98.4% Match`).
 - **Rich Anime Cards:** Displays comprehensive metadata for each suggestion:
   - Match percentage score & star rating
-  - Media type (`TV`, `Movie`, `OVA`) & episode count
+  - Media format (`TV Series`, `Movie`, `OVA`) & episode count
   - Release year & animation studio (e.g. *MADHOUSE*, *ufotable*, *Kyoto Animation*)
   - Genre tag pills (e.g. *Mystery*, *Psychological*, *Shounen*)
   - Clean, formatted synopsis
 - **Quick External Actions:** 1-click buttons to look up title details on **MyAnimeList** or stream the trailer on **YouTube**.
 - **Interactive Quick-Picks:** Popular search chips (*Death Note*, *Attack on Titan*, *Your Name*, *Steins;Gate*, *One Piece*, etc.) for instant recommendations.
-- **Instant Demo Mode Included:** Anyone cloning the repo can test recommendations immediately using the built-in sample dataset without downloading gigabytes of model files!
+- **Self-Healing Fallback Architecture:** Automatically detects if full model files are present; if missing, falls back to Instant Demo Mode so anyone can clone and test immediately without gigabyte downloads.
 - **Modern Glassmorphic Dark UI:** Cyberpunk-inspired dark theme with responsive cards, subtle glow accents, and loading spinners.
+
+---
+
+## 💡 Architecture & Design Highlights
+
+### 1. Dual-Mode Engine (Solving the GitHub 100MB Limit)
+* **The Challenge:** The full cosine similarity matrix (`similarity.pkl`) across 18,495 anime titles is **2.73 GB**. GitHub strictly limits individual file uploads to **100 MB**.
+* **The Solution:** We engineered an **Automatic Dual-Mode Engine**:
+  * **🚀 Full Production Mode (Local):** Automatically detects `anime.pkl` and `similarity.pkl` in the root folder, providing vector querying across all 18,400+ titles in milliseconds.
+  * **✨ Instant Zero-Config Demo Mode (GitHub Clones):** If the large model files are absent, the application gracefully activates **Demo Mode** using a lightweight precomputed cache (`demo_data.json`, ~80 KB). Anyone cloning the project can run `python app.py` immediately and test popular anime (*Death Note*, *Attack on Titan*, *One Piece*, *Demon Slayer*, *Steins;Gate*, *Your Name*, etc.) without running into `FileNotFoundError` or memory crashes.
+
+### 2. Text Sanitation Pipeline
+* Scraped anime datasets often contain character-level quote wrapping, encoding anomalies, and unescaped characters.
+* Implemented a string normalization pipeline in `app.py` that strips formatting artifacts and repairs punctuation while preserving natural English story synopses.
 
 ---
 
@@ -49,17 +66,17 @@ A content-based recommendation web application that suggests similar anime title
 
 ```text
 ├── screenshots/
-│   ├── preview.png          # UI preview screenshot
+│   ├── preview.png          # UI search interface screenshot
 │   └── results.png          # Recommendation cards screenshot
 ├── static/
 │   └── style.css            # Modern dark glassmorphic styling
 ├── templates/
 │   └── index.html           # Dynamic Jinja2 web template
-├── demo_data.json           # Lightweight sample data for instant demo
+├── demo_data.json           # Lightweight sample data for instant demo mode
 ├── app.py                   # Core Flask backend & recommendation engine
 ├── run_app.bat              # 1-Click launcher for Windows
 ├── requirements.txt         # Python dependencies
-├── .gitignore               # Git ignore rules (excludes large model files)
+├── .gitignore               # Git ignore rules (excludes 2.7GB model files)
 └── README.md                # Project documentation
 ```
 
