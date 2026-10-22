@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AnimeSync | Anime Recommendation System</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <!-- BACKGROUND GLOW EFFECTS -->
+    <div class="glow-orb orb-1"></div>
+    <div class="glow-orb orb-2"></div>
+
+    <!-- NAVBAR -->
+    <header class="navbar">
+        <div class="nav-container">
+            <a href="/" class="brand">
+                <span class="brand-icon">🎌</span>
+                <span class="brand-name">Anime<span>Sync</span></span>
+            </a>
+            <div class="nav-links">
+                <a href="https://github.com/Yashbanda18052003/anime-recommendation-system" target="_blank" class="github-link">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+                    GitHub
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- HERO SECTION -->
+    <main class="main-wrapper">
+        <section class="hero-section">
+            <h1 class="hero-title">
+                Find Your Next <span class="gradient-text">Favorite Anime</span>
+            </h1>
+            <p class="hero-subtitle">
+                Discover similar anime recommendations based on the themes, genres, and stories of your favorite shows.
+            </p>
+
+            <!-- SEARCH BAR FORM -->
+            <form method="POST" action="/recommend" class="search-box-wrapper" id="recommendForm">
+                <div class="search-input-group">
+                    <span class="search-icon">🔍</span>
+                    <input 
+                        type="text" 
+                        name="anime" 
+                        id="animeInput"
+                        list="anime-titles" 
+                        placeholder="Search any anime title (e.g. Death Note, Attack on Titan)..." 
+                        value="{{ selected_anime if selected_anime else '' }}"
+                        required
+                        autocomplete="off"
+                    >
+                    <datalist id="anime-titles">
+                        {% for name in anime_list %}
+                            <option value="{{ name }}"></option>
+                        {% endfor %}
+                    </datalist>
+                    <button type="submit" class="btn-recommend" id="submitBtn">
+                        <span class="btn-text">Get Suggestions</span>
+                        <span class="btn-icon">⚡</span>
+                    </button>
+                </div>
+            </form>
+
+            <!-- POPULAR SEARCHES CHIPS -->
+            <div class="quick-chips">
+                <span class="chips-label">Popular Searches:</span>
+                <button type="button" class="chip" onclick="quickSearch('Death Note')">🔥 Death Note</button>
+                <button type="button" class="chip" onclick="quickSearch('Attack on Titan')">⚔️ Attack on Titan</button>
+                <button type="button" class="chip" onclick="quickSearch('your name.')">✨ your name.</button>
+                <button type="button" class="chip" onclick="quickSearch('Steins;Gate')">🕰️ Steins;Gate</button>
+                <button type="button" class="chip" onclick="quickSearch('One-Punch Man')">💥 One-Punch Man</button>
+                <button type="button" class="chip" onclick="quickSearch('A Silent Voice')">🌸 A Silent Voice</button>
+                <button type="button" class="chip" onclick="quickSearch('Demon Slayer: Kimetsu no Yaiba')">🗡️ Demon Slayer</button>
+            </div>
+        </section>
+
+        <!-- RESULTS SECTION -->
+        {% if recommendations %}
+            <section class="results-section" id="results">
+                <div class="results-header">
+                    <div class="results-title-box">
+                        <span class="pill-label">RECOMMENDATION RESULTS</span>
+                        <h2>Top 10 Recommendations for <span class="highlight-title">"{{ selected_anime }}"</span></h2>
+                        {% if selected_info %}
+                            <div class="source-meta">
+                                {% if selected_info.type %}<span>📺 {{ selected_info.type }}</span> • {% endif %}
+                                {% if selected_info.studio %}<span>🏢 Studio: {{ selected_info.studio }}</span> • {% endif %}
+                                <span>⭐ Original Rating: {{ selected_info.rating }} / 5</span>
+                            </div>
+                        {% endif %}
+                    </div>
+                </div>
+
+                <!-- CARDS GRID -->
+                <div class="cards-grid">
+                    {% for rec in recommendations %}
+                        <div class="anime-card rank-{{ rec.rank }}">
+                            <!-- CARD HEADER -->
+                            <div class="card-top">
+                                <div class="rank-badge {% if rec.rank == 1 %}gold{% elif rec.rank == 2 %}silver{% elif rec.rank == 3 %}bronze{% endif %}">
+                                    #{{ "%02d" % rec.rank }}
+                                </div>
+                                <div class="top-meta">
+                                    <span class="similarity-badge">
+                                        ⚡ {{ rec.similarity }}% Match
+                                    </span>
+                                    {% if rec.rating and rec.rating != "N/A" %}
+                                        <span class="rating-badge">
+                                            ⭐ {{ rec.rating }}
+                                        </span>
+                                    {% endif %}
+                                </div>
+                            </div>
+
+                            <!-- CARD TITLE & SUBTITLES -->
+                            <div class="card-body">
+                                <h3 class="anime-title" title="{{ rec.name }}">{{ rec.name }}</h3>
+                                {% if rec.japanese_name %}
+                                    <div class="japanese-title">{{ rec.japanese_name }}</div>
+                                {% endif %}
+
+                                <!-- SPEC PILLS -->
+                                <div class="meta-pills">
+                                    {% if rec.type %}
+                                        <span class="pill pill-type">{{ rec.type }}</span>
+                                    {% endif %}
+                                    {% if rec.episodes %}
+                                        <span class="pill pill-episodes">{{ rec.episodes }} Eps</span>
+                                    {% endif %}
+                                    {% if rec.year %}
+                                        <span class="pill pill-year">{{ rec.year }}</span>
+                                    {% endif %}
+                                    {% if rec.studio %}
+                                        <span class="pill pill-studio">{{ rec.studio }}</span>
+                                    {% endif %}
+                                </div>
+
+                                <!-- TAGS -->
+                                {% if rec.tags %}
+                                    <div class="tags-container">
+                                        {% for tag in rec.tags %}
+                                            <span class="tag-pill">{{ tag }}</span>
+                                        {% endfor %}
+                                    </div>
+                                {% endif %}
+
+                                <!-- DESCRIPTION -->
+                                <p class="synopsis">{{ rec.description }}</p>
+                            </div>
+
+                            <!-- CARD FOOTER ACTIONS -->
+                            <div class="card-footer">
+                                <a href="https://myanimelist.net/anime.php?q={{ rec.search_query }}" target="_blank" class="action-btn mal-btn">
+                                    <span>MyAnimeList Info</span>
+                                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+                                </a>
+                                <a href="https://www.youtube.com/results?search_query={{ rec.search_query }}+anime+trailer" target="_blank" class="action-btn trailer-btn">
+                                    <span>▶ Trailer</span>
+                                </a>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            </section>
+        {% elif selected_anime %}
+            <!-- NOT FOUND STATE -->
+            <section class="not-found-card">
+                <div class="not-found-icon">❓</div>
+                <h3>Title Not Found</h3>
+                <p>We couldn't find <strong>"{{ selected_anime }}"</strong> in the dataset. Please pick a title from the search autocomplete dropdown.</p>
+                <a href="/" class="btn-reset">Try Another Title</a>
+            </section>
+        {% endif %}
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <div class="footer-container">
+            <p class="footer-text">
+                Built with <strong>Python</strong> & <strong>Flask</strong>.
+            </p>
+            <p class="footer-sub">Created by Yash Banda &bull; Backend Developer</p>
+        </div>
+    </footer>
+
+    <!-- INTERACTIVE JAVASCRIPT -->
+    <script>
+        function quickSearch(title) {
+            const input = document.getElementById('animeInput');
+            input.value = title;
+            const form = document.getElementById('recommendForm');
+            showLoadingState();
+            form.submit();
+        }
+
+        const form = document.getElementById('recommendForm');
+        form.addEventListener('submit', function() {
+            showLoadingState();
+        });
+
+        function showLoadingState() {
+            const btn = document.getElementById('submitBtn');
+            btn.innerHTML = '<span class="spinner"></span> <span>Finding Recommendations...</span>';
+            btn.style.opacity = '0.85';
+            btn.style.pointerEvents = 'none';
+        }
+
+        // Auto-scroll to results if present
+        window.addEventListener('DOMContentLoaded', () => {
+            const results = document.getElementById('results');
+            if (results) {
+                results.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+        });
+    </script>
+</body>
+</html>

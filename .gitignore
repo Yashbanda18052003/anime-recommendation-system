@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Model & Large Data Files (similarity.pkl is 2.7GB - exceeds GitHub limits)
+similarity.pkl
+*.pkl
+anime.csv
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

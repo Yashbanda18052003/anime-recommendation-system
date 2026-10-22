@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Anime Recommendation System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@400;700&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>🎴 Anime Recommendation System 🎴</h1>
+
+    <form method="POST" action="/recommend">
+        <input type="text" name="anime" list="anime-titles" placeholder="Search Anime..." required>
+        <datalist id="anime-titles">
+            {% for title in anime_list %}
+                <option value="{{ title }}">
+            {% endfor %}
+        </datalist>
+        <button type="submit">Recommend</button>
+    </form>
+
+    {% if recommendations %}
+        <h2>Recommended Anime:</h2>
+        <div class="recommendations">
+            {% for rec in recommendations %}
+                <div class="card">
+                    <img src="{{ rec.poster if rec.poster else 'https://via.placeholder.com/150' }}"
+                         alt="{{ rec.title }} Poster"
+                         class="poster">
+                    <p>{{ rec.title }}</p>
+                </div>
+            {% endfor %}
+        </div>
+    {% elif selected_anime %}
+        <p>No recommendations found for "{{ selected_anime }}"</p>
+    {% endif %}
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+    <title>Anime Recommendation System</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f2f2f2;
+            text-align: center;
+            padding: 40px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        select {
+            padding: 10px;
+            font-size: 16px;
+            width: 300px;
+            border-radius: 5px;
+            border: 1px solid #aaa;
+            margin-bottom: 20px;
+        }
+
+        button {
+            padding: 10px 25px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin-top: 30px;
+        }
+
+        li {
+            background-color: #fff;
+            margin: 10px auto;
+            padding: 15px;
+            border-radius: 8px;
+            max-width: 400px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Anime Recommendation System</h1>
+
+    <form method="POST" action="/recommend">
+        <select name="anime" required>
+            <option value="" disabled selected>Select an anime</option>
+            {% for title in anime_list %}
+                <option value="{{ title }}" {% if selected_anime == title %}selected{% endif %}>{{ title }}</option>
+            {% endfor %}
+        </select>
+        <br>
+        <button type="submit">Recommend</button>
+    </form>
+
+    {% if recommendations %}
+        <h2>Recommended Anime:</h2>
+        <ul>
+            {% for rec in recommendations %}
+                <li>{{ rec }}</li>
+            {% endfor %}
+        </ul>
+    {% elif selected_anime %}
+        <p>No recommendations found for "{{ selected_anime }}"</p>
+    {% endif %}
+</body>
+</html> -->
+
+
+
+
+
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+    <title>Anime Recommendation System</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>🎴 Anime Recommendation System 🎴</h1>
+
+    <form method="POST" action="/recommend">
+        <input type="text" name="anime" list="anime-titles" placeholder="Search Anime..." required>
+        <datalist id="anime-titles">
+            {% for title in anime_list %}
+                <option value="{{ title }}">
+            {% endfor %}
+        </datalist>
+        <button type="submit">Recommend</button>
+    </form>
+
+    {% if recommendations %}
+        <h2 style="margin-top: 40px;">Recommended Anime:</h2>
+        <ul>
+            {% for rec in recommendations %}
+                <li>{{ rec }}</li>
+            {% endfor %}
+        </ul>
+    {% elif selected_anime %}
+        <p>No recommendations found for "{{ selected_anime }}"</p>
+    {% endif %}
+</body>
+</html>  -->
