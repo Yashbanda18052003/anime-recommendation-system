@@ -26,9 +26,10 @@ A content-based recommendation web application that suggests similar anime title
   - Media type (`TV`, `Movie`, `OVA`) & episode count
   - Release year & animation studio (e.g. *MADHOUSE*, *ufotable*, *Kyoto Animation*)
   - Genre tag pills (e.g. *Mystery*, *Psychological*, *Shounen*)
-  - Clean synopsis without text corruption
+  - Clean, formatted synopsis
 - **Quick External Actions:** 1-click buttons to look up title details on **MyAnimeList** or stream the trailer on **YouTube**.
 - **Interactive Quick-Picks:** Popular search chips (*Death Note*, *Attack on Titan*, *Your Name*, *Steins;Gate*, *One Piece*, etc.) for instant recommendations.
+- **Instant Demo Mode Included:** Anyone cloning the repo can test recommendations immediately using the built-in sample dataset without downloading gigabytes of model files!
 - **Modern Glassmorphic Dark UI:** Cyberpunk-inspired dark theme with responsive cards, subtle glow accents, and loading spinners.
 
 ---
@@ -54,6 +55,7 @@ A content-based recommendation web application that suggests similar anime title
 │   └── style.css            # Modern dark glassmorphic styling
 ├── templates/
 │   └── index.html           # Dynamic Jinja2 web template
+├── demo_data.json           # Lightweight sample data for instant demo
 ├── app.py                   # Core Flask backend & recommendation engine
 ├── run_app.bat              # 1-Click launcher for Windows
 ├── requirements.txt         # Python dependencies
@@ -94,12 +96,17 @@ cd anime-recommendation-system
 pip install -r requirements.txt
 ```
 
-### 5. Datasets & Serialized Models
-Place the precomputed model files in the project root:
-- `anime.pkl`: Serialized metadata DataFrame containing titles, studios, ratings, and synopses.
-- `similarity.pkl`: Precomputed cosine similarity matrix.
+### 5. Datasets & Models (Demo vs. Full Mode)
 
-> **Note:** Due to GitHub's 100MB file limit, `similarity.pkl` is excluded from the Git repository. If running from scratch, generate the matrix using scikit-learn's `cosine_similarity` on vectorized feature columns.
+- **✨ Instant Demo Mode (Works Out-of-the-Box):**  
+  The repository includes `demo_data.json` containing verified recommendations for the most popular anime (*Death Note*, *Attack on Titan*, *One Piece*, *Demon Slayer*, *Steins;Gate*, *Your Name*, etc.). Anyone cloning this repository can run `python app.py` immediately without downloading large files!
+
+- **🚀 Full 18,495 Anime Dataset Mode:**  
+  To search across the full 18,400+ dataset:
+  1. Place the precomputed model files in the project root:
+     - `anime.pkl` (Metadata DataFrame)
+     - `similarity.pkl` (Cosine Similarity matrix)
+  2. The application will automatically detect both files on startup and activate full search across all titles.
 
 ### 6. Run the Application
 You can run the application using either method:

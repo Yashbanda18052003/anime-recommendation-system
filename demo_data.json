@@ -1,0 +1,2369 @@
+{
+  "death note": {
+    "info": {
+      "name": "Death Note",
+      "studio": "MADHOUSE",
+      "type": "TV",
+      "rating": "4.32"
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "name": "Death Note Rewrite 2: L's Successors",
+        "japanese_name": " Death Note Rewrite 2: L wo Tsugu Mono",
+        "type": "TV Sp",
+        "episodes": "",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Mystery",
+          "Crime",
+          "Criminals",
+          "Mind Games"
+        ],
+        "rating": "3.91",
+        "year": "2008",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 59.5,
+        "search_query": "Death Note Rewrite 2: L's Successors"
+      },
+      {
+        "rank": 2,
+        "name": "Death Note Rewrite 1: Visions of a God",
+        "japanese_name": " Death Note Rewrite 1: Genshi Suru Kami",
+        "type": "TV Sp",
+        "episodes": "",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Crime",
+          "Criminals",
+          "Detectives",
+          "Mind Games"
+        ],
+        "rating": "3.94",
+        "year": "2007",
+        "description": "Yagami Light is an unusually bright high school student who has found himself disillusioned and bored with both life and the world. When he stumbles upon a strange book entitled Death Note, however...",
+        "similarity": 52.7,
+        "search_query": "Death Note Rewrite 1: Visions of a God"
+      },
+      {
+        "rank": 3,
+        "name": "Akagi",
+        "japanese_name": "Alt titles: The Legend of Mahjong: Akagi, Touhai Densetsu Akagi: Yami ni Maiorita Tensai",
+        "type": "TV",
+        "episodes": "26",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Seinen",
+          "Board Games",
+          "Gambling",
+          "Gangs"
+        ],
+        "rating": "3.84",
+        "year": "2005",
+        "description": "One stormy night, a desperate man finds himself playing Mahjong with yakuza thugs; the prize is his life. He is losing, and death seems certain, until a teenage boy stumbles out of the darkness int...",
+        "similarity": 20.9,
+        "search_query": "Akagi"
+      },
+      {
+        "rank": 4,
+        "name": "Bakuman. 3 Specials",
+        "japanese_name": "",
+        "type": "DVD S",
+        "episodes": "",
+        "studio": "J.C.Staff",
+        "tags": [
+          "Manga Industry",
+          "Based on a Manga"
+        ],
+        "rating": "3.63",
+        "year": "2013",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 19.9,
+        "search_query": "Bakuman. 3 Specials"
+      },
+      {
+        "rank": 5,
+        "name": "Bakuman. 2 Special",
+        "japanese_name": " Bakuman.: Otter No. 11",
+        "type": "DVD S",
+        "episodes": "",
+        "studio": "J.C.Staff",
+        "tags": [
+          "Comedy",
+          "Writers",
+          "Based on a Manga"
+        ],
+        "rating": "3.19",
+        "year": "2012",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 19.8,
+        "search_query": "Bakuman. 2 Special"
+      },
+      {
+        "rank": 6,
+        "name": "Kaiji - Ultimate Survivor",
+        "japanese_name": " Gyakkyou Burai Kaiji: Ultimate Survivor",
+        "type": "TV",
+        "episodes": "26",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Seinen",
+          "Debt",
+          "Gambling",
+          "High Stakes Games"
+        ],
+        "rating": "4.04",
+        "year": "2007",
+        "description": "Kaiji Ito is as pathetic a person as they come; a man who gambles his days away, only winning enough to lose significantly more. He hates himself, is riddled with envy for others, but is ultimately...",
+        "similarity": 19.1,
+        "search_query": "Kaiji - Ultimate Survivor"
+      },
+      {
+        "rank": 7,
+        "name": "Real Drive",
+        "japanese_name": " RD Sennou Chousashitsu",
+        "type": "TV",
+        "episodes": "26",
+        "studio": "Production I.G",
+        "tags": [
+          "Sci Fi",
+          "Dream World",
+          "Original Work"
+        ],
+        "rating": "3.36",
+        "year": "2008",
+        "description": "Fifty years ago, Haru was diving in the sea as part of a scientific experiment; but something went terribly wrong, and a shockwave both decimated the area, and caused Haru to slip into a coma. In t...",
+        "similarity": 18.6,
+        "search_query": "Real Drive"
+      },
+      {
+        "rank": 8,
+        "name": "Aoi Bungaku Series",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "12",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Drama",
+          "Fantasy",
+          "Horror",
+          "Collections"
+        ],
+        "rating": "3.80",
+        "year": "2009",
+        "description": "Sometimes the greatest distance is\\xa0between people. Whether a man alienates himself from society with a fa\u00e7ade of cheerfulness, or two friends fail to communicate their feelings of betrayal, invi...",
+        "similarity": 17.7,
+        "search_query": "Aoi Bungaku Series"
+      },
+      {
+        "rank": 9,
+        "name": "Himitsu: The Revelation",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "26",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Drama",
+          "Mystery",
+          "Sci Fi",
+          "Shoujo"
+        ],
+        "rating": "3.47",
+        "year": "2008",
+        "description": "In the present, murders are solved not by investigations, but by memories. Using the removed brain of a victim, the members of Forensic Investigation Office Section Nine examine the person's last t...",
+        "similarity": 16.3,
+        "search_query": "Himitsu: The Revelation"
+      },
+      {
+        "rank": 10,
+        "name": "Hajime no Ippo: New Challenger",
+        "japanese_name": " Fighting Spirit: New Challenger",
+        "type": "TV",
+        "episodes": "26",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Action",
+          "Drama",
+          "Shounen",
+          "Sports"
+        ],
+        "rating": "4.37",
+        "year": "2009",
+        "description": "Ippo continues his career as a professional boxer, trying to live up to his role as the Japanese champion. Now that a new generation looks up to him as both a role model and a target - even though ...",
+        "similarity": 14.8,
+        "search_query": "Hajime no Ippo: New Challenger"
+      }
+    ]
+  },
+  "attack on titan": {
+    "info": {
+      "name": "Attack on Titan",
+      "studio": "WIT Studio",
+      "type": "TV",
+      "rating": "4.37"
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "name": "Attack on Titan: Since That Day",
+        "japanese_name": " Shingeki no Kyojin: Since That Day",
+        "type": "TV Sp",
+        "episodes": "",
+        "studio": "WIT Studio",
+        "tags": [
+          "Action",
+          "Fantasy",
+          "Horror",
+          "Shounen"
+        ],
+        "rating": "3.61",
+        "year": "2013",
+        "description": "Over a century ago, mankind was devoured by giant beings of unknown intelligence and origin known as Titans \u2013 creatures that eat humans alive indiscriminately and for no apparent reason. The remain...",
+        "similarity": 66.5,
+        "search_query": "Attack on Titan: Since That Day"
+      },
+      {
+        "rank": 2,
+        "name": "Attack on Titan 2nd Season",
+        "japanese_name": " Shingeki no Kyojin 2nd Season",
+        "type": "TV",
+        "episodes": "12",
+        "studio": "WIT Studio",
+        "tags": [
+          "Action",
+          "Fantasy",
+          "Horror",
+          "Shounen"
+        ],
+        "rating": "4.36",
+        "year": "2017",
+        "description": "Eren Jaeger swore to wipe out every last Titan, but in a battle for his life he wound up becoming the thing he hates most. With his new powers, he fights for humanity's freedom facing the monsters ...",
+        "similarity": 62.2,
+        "search_query": "Attack on Titan 2nd Season"
+      },
+      {
+        "rank": 3,
+        "name": "Attack on Titan Movie 3: The Roar of Awakening",
+        "japanese_name": " Shingeki no Kyojin Movie 3: Kakusei no Houkou",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "WIT Studio",
+        "tags": [
+          "Action",
+          "Fantasy",
+          "Horror",
+          "Isolated Society"
+        ],
+        "rating": "4.15",
+        "year": "2018",
+        "description": "A compilation film, recapping the second season of Attack on Titan.",
+        "similarity": 57.6,
+        "search_query": "Attack on Titan Movie 3: The Roar of Awakening"
+      },
+      {
+        "rank": 4,
+        "name": "Attack on Titan 3rd Season: Part II",
+        "japanese_name": " Shingeki no Kyojin Season 3: Part II",
+        "type": "TV",
+        "episodes": "10",
+        "studio": "WIT Studio",
+        "tags": [
+          "Action",
+          "Fantasy",
+          "Horror",
+          "Shounen"
+        ],
+        "rating": "4.57",
+        "year": "2019",
+        "description": "The battle to retake Wall Maria begins now! With Eren\u2019s new hardening ability, the Scouts are confident they can seal the wall and take back Shiganshina District. If they succeed, Eren can finally ...",
+        "similarity": 55.0,
+        "search_query": "Attack on Titan 3rd Season: Part II"
+      },
+      {
+        "rank": 5,
+        "name": "Attack on Titan 3rd Season",
+        "japanese_name": " Shingeki no Kyojin 3rd Season",
+        "type": "TV",
+        "episodes": "12",
+        "studio": "WIT Studio",
+        "tags": [
+          "Action",
+          "Fantasy",
+          "Horror",
+          "Dark Fantasy"
+        ],
+        "rating": "4.44",
+        "year": "2018",
+        "description": "Deep in the forest, Eren continues to hone his Titan abilities so that the military can reclaim Wall Maria. But soon, the Scouts find themselves persecuted for a crime they didn't commit, and Eren ...",
+        "similarity": 54.3,
+        "search_query": "Attack on Titan 3rd Season"
+      },
+      {
+        "rank": 6,
+        "name": "Attack on Titan Movie 4: Chronicle",
+        "japanese_name": " Shingeki no Kyojin Movie 4: Chronicle",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "WIT Studio",
+        "tags": [
+          "Action",
+          "Fantasy",
+          "Horror",
+          "Shounen"
+        ],
+        "rating": "4.08",
+        "year": "2020",
+        "description": "A compilation film, recapping the first three seasons\\xa0of Attack on Titan.",
+        "similarity": 51.0,
+        "search_query": "Attack on Titan Movie 4: Chronicle"
+      },
+      {
+        "rank": 7,
+        "name": "Attack on Titan Movie 1: Crimson Bow and Arrow",
+        "japanese_name": " Shingeki no Kyojin Movie 1: Guren no Yumiya",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "WIT Studio",
+        "tags": [
+          "Action",
+          "Fantasy",
+          "Horror",
+          "Shounen"
+        ],
+        "rating": "3.88",
+        "year": "2014",
+        "description": "A compilation film, recapping the first season of Attack on Titan.",
+        "similarity": 50.8,
+        "search_query": "Attack on Titan Movie 1: Crimson Bow and Arrow"
+      },
+      {
+        "rank": 8,
+        "name": "Attack on Titan Movie 2: The Wings of Freedom",
+        "japanese_name": " Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "WIT Studio",
+        "tags": [
+          "Action",
+          "Fantasy",
+          "Horror",
+          "Shounen"
+        ],
+        "rating": "3.99",
+        "year": "2015",
+        "description": "A compilation film, recapping the first season of Attack on Titan.",
+        "similarity": 50.8,
+        "search_query": "Attack on Titan Movie 2: The Wings of Freedom"
+      },
+      {
+        "rank": 9,
+        "name": "Attack on Titan: Lost Girls",
+        "japanese_name": " Shingeki no Kyojin: Lost Girls",
+        "type": "OVA",
+        "episodes": "3",
+        "studio": "WIT Studio",
+        "tags": [
+          "Drama",
+          "Fantasy",
+          "Mystery",
+          "Dark Fantasy"
+        ],
+        "rating": "4.04",
+        "year": "2017",
+        "description": "Tomorrow is the fated day that Annie Leonhardt must carry out her mission, no matter the cost. But first, she decides to investigate the disappearance of a wealthy businessman's daughter. Later, Mi...",
+        "similarity": 45.5,
+        "search_query": "Attack on Titan: Lost Girls"
+      },
+      {
+        "rank": 10,
+        "name": "Attack on Titan The Final Season: Part II",
+        "japanese_name": " Shingeki no Kyojin The Final Season: Part II",
+        "type": "TV",
+        "episodes": "",
+        "studio": "MAPPA",
+        "tags": [
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Horror"
+        ],
+        "rating": "4.56",
+        "year": "2022",
+        "description": "Continuation of\\xa0Attack on Titan The Final Season.",
+        "similarity": 38.3,
+        "search_query": "Attack on Titan The Final Season: Part II"
+      }
+    ]
+  },
+  "one piece": {
+    "info": {
+      "name": "One Piece",
+      "studio": "Toei Animation",
+      "type": "TV",
+      "rating": "4.32"
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "name": "One Piece Recap",
+        "japanese_name": "",
+        "type": "OVA",
+        "episodes": "1",
+        "studio": "Toei Animation",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Shounen"
+        ],
+        "rating": "3.69",
+        "year": "2010",
+        "description": "In a golden age of pirates, one young rookie namedMonkey D. Luffy is taking the world by storm. Setting out from his hometown in a small boat, Luffy is slowly gathering together a crew of strong fr...",
+        "similarity": 46.3,
+        "search_query": "One Piece Recap"
+      },
+      {
+        "rank": 2,
+        "name": "One Piece: Episode of Skypiea",
+        "japanese_name": " One Piece: Episode of Sorajima",
+        "type": "TV Sp",
+        "episodes": "",
+        "studio": "Toei Animation",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Shounen"
+        ],
+        "rating": "3.88",
+        "year": "2018",
+        "description": "Luffy and his crew meet a descendant of Noland the Liar, who tells them how to reach Sky Island. There, a strange and incredible country awaits, so long as the Merry can survive a wild ride to the ...",
+        "similarity": 43.7,
+        "search_query": "One Piece: Episode of Skypiea"
+      },
+      {
+        "rank": 3,
+        "name": "One Piece Special: Glorious Island",
+        "japanese_name": "",
+        "type": "Other",
+        "episodes": "",
+        "studio": "Toei Animation",
+        "tags": [
+          "Comedy",
+          "Shounen",
+          "Pirates",
+          "Short Episodes"
+        ],
+        "rating": "3.65",
+        "year": "2012",
+        "description": "An exclusive anime prologue to One Piece Film Z with an original story penned by manga creator Eiichiro Oda.",
+        "similarity": 41.4,
+        "search_query": "One Piece Special: Glorious Island"
+      },
+      {
+        "rank": 4,
+        "name": "One Piece Special: Heart of Gold",
+        "japanese_name": "",
+        "type": "TV Sp",
+        "episodes": "",
+        "studio": "Toei Animation",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Shounen"
+        ],
+        "rating": "3.98",
+        "year": "2016",
+        "description": "While exploring the New World, Luffy and the crew meet a mysterious girl named Olga. She is pretty on the outside but twisted and savage inside and she told them she is chased by the Navy and a pow...",
+        "similarity": 40.8,
+        "search_query": "One Piece Special: Heart of Gold"
+      },
+      {
+        "rank": 5,
+        "name": "One Piece Film: Gold ~Episode 0~ 711 ver.",
+        "japanese_name": "",
+        "type": "Other",
+        "episodes": "",
+        "studio": "Toei Animation",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Shounen"
+        ],
+        "rating": "3.81",
+        "year": "2016",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 40.7,
+        "search_query": "One Piece Film: Gold ~Episode 0~ 711 ver."
+      },
+      {
+        "rank": 6,
+        "name": "One Piece Movie 4: Dead End Adventure",
+        "japanese_name": " One Piece Movie 4: Dead End no Bouken",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Toei Animation",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Shounen",
+          "Ocean"
+        ],
+        "rating": "3.92",
+        "year": "2003",
+        "description": "Luffy\u2019s crew is in dire straights: they are in the Grand Line, running out of money fast! In their search for a quick fix, they find out about a Pirates race. Should they survive the treachery of t...",
+        "similarity": 40.3,
+        "search_query": "One Piece Movie 4: Dead End Adventure"
+      },
+      {
+        "rank": 7,
+        "name": "One Piece Movie 9: Episode of Chopper - The Miracle Winter Cherry Blossom",
+        "japanese_name": " One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Toei Animation",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Shounen"
+        ],
+        "rating": "3.85",
+        "year": "2008",
+        "description": "When Nami suddenly comes down with a fever, Luffy and the crew immediately set out to find a doctor. They soon arrive at Winter Island, a freezing land where the snow never melts - and they receive...",
+        "similarity": 39.1,
+        "search_query": "One Piece Movie 9: Episode of Chopper - The Miracle Winter Cherry Blossom"
+      },
+      {
+        "rank": 8,
+        "name": "Tokyo One Piece Tower: Tongari Shima no Dai Hihou",
+        "japanese_name": "",
+        "type": "Other",
+        "episodes": "",
+        "studio": "",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Shounen",
+          "Pirates"
+        ],
+        "rating": "3.60",
+        "year": "2016",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 37.7,
+        "search_query": "Tokyo One Piece Tower: Tongari Shima no Dai Hihou"
+      },
+      {
+        "rank": 9,
+        "name": "One Piece Movie 14: Stampede",
+        "japanese_name": "",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Toei Animation",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Shounen",
+          "Pirates"
+        ],
+        "rating": "4.32",
+        "year": "2019",
+        "description": "The world\u2019s boldest buccaneers set sail for the great Pirate Festival, where the Straw Hats join a mad-dash race to find Gol D. Roger\u2019s treasure. There\u2019s just one little problem. An old member of R...",
+        "similarity": 36.7,
+        "search_query": "One Piece Movie 14: Stampede"
+      },
+      {
+        "rank": 10,
+        "name": "One Piece Movie 7: Karakuri Castle's Mecha Giant Soldier",
+        "japanese_name": " One Piece Movie 7: Karakuri-jou no Mecha Kyohei",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Toei Animation",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Shounen",
+          "Island"
+        ],
+        "rating": "3.81",
+        "year": "2006",
+        "description": "Having recovered a treasure chest from a sinking ship, the Straw Hat Pirates can\u2019t wait to see what riches await them inside. So imagine their surprise when they find they've gotten an old lady ins...",
+        "similarity": 36.7,
+        "search_query": "One Piece Movie 7: Karakuri Castle's Mecha Giant Soldier"
+      }
+    ]
+  },
+  "demon slayer: kimetsu no yaiba": {
+    "info": {
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "studio": "ufotable",
+      "type": "TV",
+      "rating": "4.51"
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "name": "Demon Slayer: Kimetsu no Yaiba Movie - Mugen Train",
+        "japanese_name": " Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "ufotable",
+        "tags": [
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Shounen"
+        ],
+        "rating": "4.54",
+        "year": "2020",
+        "description": "Tanjirou\\xa0and the group have completed their rehabilitation training at the Butterfly Mansion, and they arrive to their next mission on the Mugen Train, where over 40 people have disappeared in a...",
+        "similarity": 52.5,
+        "search_query": "Demon Slayer: Kimetsu no Yaiba Movie - Mugen Train"
+      },
+      {
+        "rank": 2,
+        "name": "Demon Slayer: Kimetsu no Yaiba - Entertainment District Arc",
+        "japanese_name": " Kimetsu no Yaiba: Yuukaku-hen",
+        "type": "TV",
+        "episodes": "",
+        "studio": "ufotable",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Shounen"
+        ],
+        "rating": "4.60",
+        "year": "2021",
+        "description": "Tanjiro and his friends accompany the Hashira Tengen Uzui to an entertainment district where Tengen\u2019s female ninja agents were gathering information on a demon before they suddenly disappeared. In ...",
+        "similarity": 48.5,
+        "search_query": "Demon Slayer: Kimetsu no Yaiba - Entertainment District Arc"
+      },
+      {
+        "rank": 3,
+        "name": "Demon Slayer: Kimetsu no Yaiba - Mugen Train",
+        "japanese_name": " Kimetsu no Yaiba: Mugen Ressha-hen",
+        "type": "TV",
+        "episodes": "",
+        "studio": "ufotable",
+        "tags": [
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Shounen"
+        ],
+        "rating": "4.43",
+        "year": "2021",
+        "description": "Tanjirou\\xa0and the group have completed their rehabilitation training at the Butterfly Mansion, and they arrive to their next mission on the Mugen Train, where over 40 people have disappeared in a...",
+        "similarity": 32.5,
+        "search_query": "Demon Slayer: Kimetsu no Yaiba - Mugen Train"
+      },
+      {
+        "rank": 4,
+        "name": "Wonderful World: Ganmen Shintaisou",
+        "japanese_name": " Minna no Uta: Wonderful World: Ganmen Shintaisou",
+        "type": "Music",
+        "episodes": "",
+        "studio": "",
+        "tags": [
+          "Family Friendly",
+          "Minna no Uta"
+        ],
+        "rating": "3.10",
+        "year": "1989",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 27.9,
+        "search_query": "Wonderful World: Ganmen Shintaisou"
+      },
+      {
+        "rank": 5,
+        "name": "Nanatsu no Umi",
+        "japanese_name": " Minna no Uta: Nanatsu no Umi",
+        "type": "Music",
+        "episodes": "",
+        "studio": "",
+        "tags": [
+          "Family Friendly",
+          "Minna no Uta",
+          "Ocean",
+          "Ship"
+        ],
+        "rating": "N/A",
+        "year": "2013",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 26.8,
+        "search_query": "Nanatsu no Umi"
+      },
+      {
+        "rank": 6,
+        "name": "Haruzora to Akizora",
+        "japanese_name": " Spring Sky and Fall Sky",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "",
+        "tags": [
+          "Drama",
+          "Shorts"
+        ],
+        "rating": "N/A",
+        "year": "2020",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 26.4,
+        "search_query": "Haruzora to Akizora"
+      },
+      {
+        "rank": 7,
+        "name": "Hare Butai",
+        "japanese_name": " Minna no Uta: Hare Butai",
+        "type": "Music",
+        "episodes": "",
+        "studio": "Spooky Graphic",
+        "tags": [
+          "Family Friendly",
+          "Minna no Uta"
+        ],
+        "rating": "N/A",
+        "year": "2008",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 26.3,
+        "search_query": "Hare Butai"
+      },
+      {
+        "rank": 8,
+        "name": "Argonavis from BanG Dream! Animation",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "13",
+        "studio": "SANZIGEN",
+        "tags": [
+          "Music",
+          "Showbiz"
+        ],
+        "rating": "3.48",
+        "year": "2020",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 26.0,
+        "search_query": "Argonavis from BanG Dream! Animation"
+      },
+      {
+        "rank": 9,
+        "name": "Mafumafu: Chocotto no Kotae",
+        "japanese_name": "",
+        "type": "Music",
+        "episodes": "",
+        "studio": "",
+        "tags": [
+          "Chibi",
+          "Valentine's Day"
+        ],
+        "rating": "3.49",
+        "year": "2021",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 25.6,
+        "search_query": "Mafumafu: Chocotto no Kotae"
+      },
+      {
+        "rank": 10,
+        "name": "Eve: Last Dance",
+        "japanese_name": "",
+        "type": "Music",
+        "episodes": "",
+        "studio": "",
+        "tags": [
+          "Fantasy",
+          "Abstract",
+          "Dancing",
+          "Supernatural"
+        ],
+        "rating": "3.63",
+        "year": "2018",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 25.6,
+        "search_query": "Eve: Last Dance"
+      }
+    ]
+  },
+  "your name.": {
+    "info": {
+      "name": "your name.",
+      "studio": "CoMix Wave Films",
+      "type": "Movie",
+      "rating": "4.51"
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "name": "RADWIMPS: Sparkle",
+        "japanese_name": "",
+        "type": "Music",
+        "episodes": "",
+        "studio": "CoMix Wave Films",
+        "tags": [
+          "Drama",
+          "Romance",
+          "School Life",
+          "Supernatural"
+        ],
+        "rating": "3.64",
+        "year": "2016",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 46.4,
+        "search_query": "RADWIMPS: Sparkle"
+      },
+      {
+        "rank": 2,
+        "name": "Suntory Minami Alps no Tennen Mizu",
+        "japanese_name": "",
+        "type": "Other",
+        "episodes": "",
+        "studio": "CoMix Wave Films",
+        "tags": [
+          "Commercials",
+          "Promotional",
+          "Short Episodes"
+        ],
+        "rating": "3.01",
+        "year": "2016",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 32.4,
+        "search_query": "Suntory Minami Alps no Tennen Mizu"
+      },
+      {
+        "rank": 3,
+        "name": "Suzume no Tojimari",
+        "japanese_name": "",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "CoMix Wave Films",
+        "tags": [
+          "Adventure",
+          "Mystery",
+          "Sci Fi",
+          "Original Work"
+        ],
+        "rating": "N/A",
+        "year": "2022",
+        "description": "The story follows Suzume, a 17-year-old girl from a quiet Kyushu town who meets a young man looking for a door. They find a door within ruins in the mountain, and Suzume opens it. Soon, more doors ...",
+        "similarity": 31.7,
+        "search_query": "Suzume no Tojimari"
+      },
+      {
+        "rank": 4,
+        "name": "Weathering With You",
+        "japanese_name": " Tenki no Ko",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "CoMix Wave Films",
+        "tags": [
+          "Drama",
+          "Lifestyle Change",
+          "Supernatural",
+          "Writers"
+        ],
+        "rating": "4.27",
+        "year": "2019",
+        "description": "The summer of his high school freshman year, Hokoda runs away from his remote island home to Tokyo, and quickly finds himself pushed to his financial and personal limits. The weather is unusually g...",
+        "similarity": 29.1,
+        "search_query": "Weathering With You"
+      },
+      {
+        "rank": 5,
+        "name": "Shelter",
+        "japanese_name": "",
+        "type": "Music",
+        "episodes": "",
+        "studio": "A-1 Pictures",
+        "tags": [
+          "Drama",
+          "Sci Fi",
+          "Loneliness",
+          "Virtual Reality"
+        ],
+        "rating": "4.24",
+        "year": "2016",
+        "description": "SHELTER, tells the story of Rin, a 17-year-old girl who lives her life inside of a futuristic simulation completely by herself in infinite, beautiful loneliness. Each day, Rin awakens in virtual re...",
+        "similarity": 23.7,
+        "search_query": "Shelter"
+      },
+      {
+        "rank": 6,
+        "name": "Taisei Kensetsu: Myanmar",
+        "japanese_name": "",
+        "type": "Other",
+        "episodes": "",
+        "studio": "CoMix Wave Films",
+        "tags": [
+          "Slice of Life",
+          "Promotional",
+          "Shorts"
+        ],
+        "rating": "3.34",
+        "year": "2020",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 22.6,
+        "search_query": "Taisei Kensetsu: Myanmar"
+      },
+      {
+        "rank": 7,
+        "name": "The Garden of Words",
+        "japanese_name": " Kotonoha no Niwa",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "CoMix Wave Films",
+        "tags": [
+          "Drama",
+          "Romance",
+          "Age Gap",
+          "Loneliness"
+        ],
+        "rating": "4.02",
+        "year": "2013",
+        "description": "When Takao decides to skip school one day in favor of sketching in a rainy garden, he has no idea how much his life will change when he encounters Yukino. Older, but perhaps not as much wiser, she ...",
+        "similarity": 21.2,
+        "search_query": "The Garden of Words"
+      },
+      {
+        "rank": 8,
+        "name": "Lucky Star",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "24",
+        "studio": "Kyoto Animation",
+        "tags": [
+          "Comedy",
+          "Shounen",
+          "Slice of Life",
+          "Episodic"
+        ],
+        "rating": "3.91",
+        "year": "2007",
+        "description": "In present day Japan, the life of a school girl is never dull. The easily-bored Konata never finds time to study because of her otaku habits, which frustrates hard-working Kagami to no end. On the ...",
+        "similarity": 21.0,
+        "search_query": "Lucky Star"
+      },
+      {
+        "rank": 9,
+        "name": "Princess Mononoke",
+        "japanese_name": " Mononoke Hime",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Studio Ghibli",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Curse"
+        ],
+        "rating": "4.36",
+        "year": "1997",
+        "description": "With the rise of the Iron Age in feudal Japan, man and nature grow increasingly at odds. As mankind infringes more and more into the kingdom of the beasts, many of the elder animal gods begin to su...",
+        "similarity": 20.6,
+        "search_query": "Princess Mononoke"
+      },
+      {
+        "rank": 10,
+        "name": "Hidamari Sketch x Honeycomb",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "12",
+        "studio": "SHAFT",
+        "tags": [
+          "Comedy",
+          "Seinen",
+          "Slice of Life",
+          "Art"
+        ],
+        "rating": "3.95",
+        "year": "2012",
+        "description": "At Hidamari Apartments, which is famous for being a gathering place for weirdos, art student Yuno is surrounded by heartwarming friends of Yamabuki High School. While still getting used to bumping ...",
+        "similarity": 19.9,
+        "search_query": "Hidamari Sketch x Honeycomb"
+      }
+    ]
+  },
+  "steins;gate": {
+    "info": {
+      "name": "Steins;Gate",
+      "studio": "WHITE FOX",
+      "type": "TV",
+      "rating": "4.44"
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "name": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+        "japanese_name": "",
+        "type": "DVD S",
+        "episodes": "",
+        "studio": "WHITE FOX",
+        "tags": [
+          "Sci Fi",
+          "Psychological",
+          "Thriller",
+          "Time Travel"
+        ],
+        "rating": "4.12",
+        "year": "2015",
+        "description": "Alternate episode 23 of Steins;Gate.",
+        "similarity": 53.9,
+        "search_query": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero"
+      },
+      {
+        "rank": 2,
+        "name": "Steins;Gate: Egoistic Poriomania",
+        "japanese_name": " Steins;Gate: Oukoubakko no Poriomania",
+        "type": "DVD S",
+        "episodes": "",
+        "studio": "WHITE FOX",
+        "tags": [
+          "Comedy",
+          "Sci Fi",
+          "America",
+          "Based on a Visual Novel"
+        ],
+        "rating": "4.27",
+        "year": "2012",
+        "description": "Faris is on her way to a competition in Los Angeles and she's invited Okabe, Mayuri, and the rest of the Future Gadget Laboratory to accompany her. However, the gang quickly realizes their American...",
+        "similarity": 52.6,
+        "search_query": "Steins;Gate: Egoistic Poriomania"
+      },
+      {
+        "rank": 3,
+        "name": "Steins;Gate Movie: Load Region of Deja Vu",
+        "japanese_name": " Steins;Gate Movie: Fuka Ryouiki no Deja vu",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "WHITE FOX",
+        "tags": [
+          "Drama",
+          "Sci Fi",
+          "Thriller",
+          "Time Travel"
+        ],
+        "rating": "4.31",
+        "year": "2013",
+        "description": "When Kurisu visits her friends at the Future Gadget Lab, something\u2019s not quite right. Out of nowhere, Okabe disappears and Kurisu must risk everything to save the mad scientist who tried countless ...",
+        "similarity": 44.6,
+        "search_query": "Steins;Gate Movie: Load Region of Deja Vu"
+      },
+      {
+        "rank": 4,
+        "name": "Steins;Gate 0",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "23",
+        "studio": "WHITE FOX",
+        "tags": [
+          "Drama",
+          "Mystery",
+          "Sci Fi",
+          "Psychological"
+        ],
+        "rating": "4.28",
+        "year": "2018",
+        "description": "A divergent continuation of the original Steins;Gate ending, Steins;Gate 0 explores an alternate worldline where Okabe abandons time travel. While attempting to forget past traumas and get his life...",
+        "similarity": 27.6,
+        "search_query": "Steins;Gate 0"
+      },
+      {
+        "rank": 5,
+        "name": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+        "japanese_name": "",
+        "type": "Web",
+        "episodes": "4",
+        "studio": "WHITE FOX",
+        "tags": [
+          "Short Episodes",
+          "Based on a Visual Novel"
+        ],
+        "rating": "3.66",
+        "year": "2014",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 27.4,
+        "search_query": "Steins;Gate: Soumei Eichi no Cognitive Computing"
+      },
+      {
+        "rank": 6,
+        "name": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+        "japanese_name": "",
+        "type": "DVD S",
+        "episodes": "",
+        "studio": "WHITE FOX",
+        "tags": [
+          "Drama",
+          "Sci Fi",
+          "Valentine's Day",
+          "Based on a Visual Novel"
+        ],
+        "rating": "3.57",
+        "year": "2018",
+        "description": "A special day approaches during a lull in the chaos. It's that time of year to give chocolate to the ones you love, but\\xa0not everyone finds that an easy task.",
+        "similarity": 25.8,
+        "search_query": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-"
+      },
+      {
+        "rank": 7,
+        "name": "Strawberry Marshmallow Special: Episode 0",
+        "japanese_name": " Ichigo Mashimaro Special: Episode 0",
+        "type": "DVD S",
+        "episodes": "",
+        "studio": "Daume",
+        "tags": [
+          "Comedy",
+          "Shounen",
+          "Slice of Life",
+          "Astronauts"
+        ],
+        "rating": "3.50",
+        "year": "2005",
+        "description": "It\u2019s twenty days until the first episode of the series is due to air, and aboard a space shuttle on their voyage back to Earth the girls are relaxing. Unfortunately their peace is soon shattered as...",
+        "similarity": 16.8,
+        "search_query": "Strawberry Marshmallow Special: Episode 0"
+      },
+      {
+        "rank": 8,
+        "name": "DPR Special Movie",
+        "japanese_name": "",
+        "type": "Web",
+        "episodes": "1",
+        "studio": "WHITE FOX",
+        "tags": [
+          "Outer Space",
+          "Promotional",
+          "Original Work"
+        ],
+        "rating": "2.84",
+        "year": "2013",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 15.9,
+        "search_query": "DPR Special Movie"
+      },
+      {
+        "rank": 9,
+        "name": "When They Cry: Kai",
+        "japanese_name": " Higurashi no Naku Koro ni Kai",
+        "type": "TV",
+        "episodes": "24",
+        "studio": "Studio DEEN",
+        "tags": [
+          "Horror",
+          "Conspiracy",
+          "Countryside",
+          "Curse"
+        ],
+        "rating": "4.19",
+        "year": "2007",
+        "description": "It is the year 1983; and in the village of Hinamizawa, on the night of the cotton drifting festival and in the days following it, a series of deaths occurs. The only hope for the village and its in...",
+        "similarity": 15.8,
+        "search_query": "When They Cry: Kai"
+      },
+      {
+        "rank": 10,
+        "name": "Superflat Monogram",
+        "japanese_name": "",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Toei Animation",
+        "tags": [
+          "Fantasy",
+          "Abstract",
+          "Bears",
+          "Shorts"
+        ],
+        "rating": "3.21",
+        "year": "2003",
+        "description": "A young girl is standing outside a store, using her mobile phone, when a strange force wrenches that phone from her hands and drops it onto the ground. When she goes to pick up her phone she finds ...",
+        "similarity": 15.3,
+        "search_query": "Superflat Monogram"
+      }
+    ]
+  },
+  "one-punch man": {
+    "info": {
+      "name": "One-Punch Man",
+      "studio": "MADHOUSE",
+      "type": "TV",
+      "rating": "4.43"
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "name": "One-Punch Man 2",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "12",
+        "studio": "J.C.Staff",
+        "tags": [
+          "Action",
+          "Comedy",
+          "Sci Fi",
+          "Seinen"
+        ],
+        "rating": "4.11",
+        "year": "2019",
+        "description": "Saitama is a hero who only became a hero for fun. After three years of \u201cspecial training,\u201d he\u2019s become so strong that he\u2019s practically invincible. In fact, he\u2019s too strong\u2014even his mightiest oppone...",
+        "similarity": 52.2,
+        "search_query": "One-Punch Man 2"
+      },
+      {
+        "rank": 2,
+        "name": "One-Punch Man Specials",
+        "japanese_name": "",
+        "type": "DVD S",
+        "episodes": "",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Action",
+          "Comedy",
+          "Sci Fi",
+          "Seinen"
+        ],
+        "rating": "4.08",
+        "year": "2015",
+        "description": "Genos, determined as ever to find out the secret of Saitama\\'s strength, begins stalking him and analyzing the food he eats. Saitama, annoyed to find one of his french fries missing, blames an \"inn...",
+        "similarity": 49.7,
+        "search_query": "One-Punch Man Specials"
+      },
+      {
+        "rank": 3,
+        "name": "One-Punch Man Recap",
+        "japanese_name": "",
+        "type": "TV Sp",
+        "episodes": "",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Action",
+          "Comedy",
+          "Sci Fi",
+          "Shounen"
+        ],
+        "rating": "3.56",
+        "year": "2019",
+        "description": "A recap episode of the first season of One-Punch Man.",
+        "similarity": 49.3,
+        "search_query": "One-Punch Man Recap"
+      },
+      {
+        "rank": 4,
+        "name": "Go! Saitama",
+        "japanese_name": "",
+        "type": "Web",
+        "episodes": "1",
+        "studio": "Village Studio",
+        "tags": [
+          "Comedy",
+          "Seinen",
+          "No Dialogue",
+          "Superheroes"
+        ],
+        "rating": "3.60",
+        "year": "2021",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 47.5,
+        "search_query": "Go! Saitama"
+      },
+      {
+        "rank": 5,
+        "name": "One-Punch Man: Road to Hero",
+        "japanese_name": "",
+        "type": "OVA",
+        "episodes": "1",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Action",
+          "Comedy",
+          "Sci Fi",
+          "Seinen"
+        ],
+        "rating": "4.15",
+        "year": "2015",
+        "description": "In Saitama's early days, before he lost all his hair and came to acquire his iconic superhero suit, he lived in a shady apartment complex run by a cranky old woman. When he discovers the kindly old...",
+        "similarity": 43.3,
+        "search_query": "One-Punch Man: Road to Hero"
+      },
+      {
+        "rank": 6,
+        "name": "One-Punch Man 2 Specials",
+        "japanese_name": "",
+        "type": "DVD S",
+        "episodes": "",
+        "studio": "J.C.Staff",
+        "tags": [
+          "Comedy",
+          "Seinen",
+          "Slice of Life",
+          "Overpowered Main Characters"
+        ],
+        "rating": "3.93",
+        "year": "2019",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 34.9,
+        "search_query": "One-Punch Man 2 Specials"
+      },
+      {
+        "rank": 7,
+        "name": "Boogiepop and Others",
+        "japanese_name": " Boogiepop wa Warawanai (2019)",
+        "type": "TV",
+        "episodes": "18",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Horror",
+          "Mystery",
+          "Noir",
+          "Psychological"
+        ],
+        "rating": "3.43",
+        "year": "2019",
+        "description": "There is an urban legend that children tell one another about a shinigami that can release people from the pain they may be suffering. This \"Angel of Death\" has a name: Boogiepop. And the legends a...",
+        "similarity": 19.9,
+        "search_query": "Boogiepop and Others"
+      },
+      {
+        "rank": 8,
+        "name": "Overlord",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "13",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci Fi"
+        ],
+        "rating": "4.22",
+        "year": "2015",
+        "description": "On the night his favorite MMORPG is scheduled to be shut down, veteran player Momonga stays logged in until the clock hits zero. The screen goes dark for only a few moments before he finds himself ...",
+        "similarity": 18.8,
+        "search_query": "Overlord"
+      },
+      {
+        "rank": 9,
+        "name": "Overlord II",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "13",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Action",
+          "Fantasy",
+          "Sci Fi",
+          "Dark Fantasy"
+        ],
+        "rating": "4.18",
+        "year": "2018",
+        "description": "Continuing his quest to rule this new world, Ains begins to put the pieces in place for his conquest. But between a Lizard Man tribe uprising, and performing missions as adamantite adventurer Momon...",
+        "similarity": 17.8,
+        "search_query": "Overlord II"
+      },
+      {
+        "rank": 10,
+        "name": "Kankou Taisen Saitama: Sakuya no Tatakai",
+        "japanese_name": "",
+        "type": "Web",
+        "episodes": "4",
+        "studio": "Winter 2011",
+        "tags": [
+          "Promotional",
+          "Short Episodes"
+        ],
+        "rating": "3.29",
+        "year": "2011",
+        "description": "Promotional videos\\xa0to highlight more than 50 tourist destinations throughout Saitama.",
+        "similarity": 17.2,
+        "search_query": "Kankou Taisen Saitama: Sakuya no Tatakai"
+      }
+    ]
+  },
+  "a silent voice": {
+    "info": {
+      "name": "A Silent Voice",
+      "studio": "Kyoto Animation",
+      "type": "Movie",
+      "rating": "4.51"
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "name": "A Silent Voice Specials",
+        "japanese_name": " Koe no Katachi Specials",
+        "type": "DVD S",
+        "episodes": "",
+        "studio": "Kyoto Animation",
+        "tags": [
+          "Based on a Manga"
+        ],
+        "rating": "3.56",
+        "year": "2017",
+        "description": "The limited first edition of the Blu-ray Disc for Kyoto Animation's film adaptation of Yoshitoki Ooima's\\xa0A Silent Voice\\xa0manga includes two bonus new animation videos of AIKO's theme song\\xa0K...",
+        "similarity": 33.7,
+        "search_query": "A Silent Voice Specials"
+      },
+      {
+        "rank": 2,
+        "name": "Love, Chunibyo, & Other Delusions! Rikka Version",
+        "japanese_name": " Takanashi Rikka Kai: Chuunibyou Demo Koi ga Shitai!",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Kyoto Animation",
+        "tags": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Recap"
+        ],
+        "rating": "3.67",
+        "year": "2013",
+        "description": "A fresh retelling of the original Love, Chunibyo, & Other Delusions TV series, told from the point of view of the Tyrant Eye herself, Rikka Takanashi.",
+        "similarity": 22.3,
+        "search_query": "Love, Chunibyo, & Other Delusions! Rikka Version"
+      },
+      {
+        "rank": 3,
+        "name": "Liz and the Blue Bird",
+        "japanese_name": " Liz to Aoitori",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Kyoto Animation",
+        "tags": [
+          "Music",
+          "School Club",
+          "School Life",
+          "Based on a Novel"
+        ],
+        "rating": "4.02",
+        "year": "2018",
+        "description": "Mizore Yoroizuka plays the oboe, and Nozomi Kasaki plays the flute in Kita Uji High School concert band. As seniors, this will be their last competition together, and the selected piece \u201cLiz and th...",
+        "similarity": 20.3,
+        "search_query": "Liz and the Blue Bird"
+      },
+      {
+        "rank": 4,
+        "name": "InuYasha: Kuroi Tessaiga",
+        "japanese_name": "",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Sunrise",
+        "tags": [
+          "Action",
+          "Fantasy",
+          "Shounen",
+          "Animal Characteristics"
+        ],
+        "rating": "4.10",
+        "year": "2008",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 19.7,
+        "search_query": "InuYasha: Kuroi Tessaiga"
+      },
+      {
+        "rank": 5,
+        "name": "Violet Evergarden Movie",
+        "japanese_name": "",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Kyoto Animation",
+        "tags": [
+          "Drama",
+          "Melancholy",
+          "War",
+          "Based on a Light Novel"
+        ],
+        "rating": "4.50",
+        "year": "2020",
+        "description": "As the world moves on from the war and technological advances bring changes to her life, Violet still hopes to see her lost commanding officer again.",
+        "similarity": 19.7,
+        "search_query": "Violet Evergarden Movie"
+      },
+      {
+        "rank": 6,
+        "name": "The Garden of Words",
+        "japanese_name": " Kotonoha no Niwa",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "CoMix Wave Films",
+        "tags": [
+          "Drama",
+          "Romance",
+          "Age Gap",
+          "Loneliness"
+        ],
+        "rating": "4.02",
+        "year": "2013",
+        "description": "When Takao decides to skip school one day in favor of sketching in a rainy garden, he has no idea how much his life will change when he encounters Yukino. Older, but perhaps not as much wiser, she ...",
+        "similarity": 19.3,
+        "search_query": "The Garden of Words"
+      },
+      {
+        "rank": 7,
+        "name": "To Your Eternity Recap",
+        "japanese_name": " Fumetsu no Anata e: Fushi no Tabiji",
+        "type": "TV Sp",
+        "episodes": "",
+        "studio": "Brain's Base",
+        "tags": [
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Shounen"
+        ],
+        "rating": "3.40",
+        "year": "2021",
+        "description": "A recap episode, covering episodes 1-12 of To Your Eternity.",
+        "similarity": 18.3,
+        "search_query": "To Your Eternity Recap"
+      },
+      {
+        "rank": 8,
+        "name": "Hyouka",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "22",
+        "studio": "Kyoto Animation",
+        "tags": [
+          "Drama",
+          "Mystery",
+          "Shounen",
+          "School Club"
+        ],
+        "rating": "4.05",
+        "year": "2012",
+        "description": "If I don\\'t have to do it, I won\\'t. If I do have to do it, make it quick,\" is the basic principle by which energy conservationist Houtarou Oreki lives. But after his sister convinces him to join t...",
+        "similarity": 17.5,
+        "search_query": "Hyouka"
+      },
+      {
+        "rank": 9,
+        "name": "Hyouka: What Should Be Had",
+        "japanese_name": " Hyouka: Motsubeki Mono wa",
+        "type": "Web",
+        "episodes": "1",
+        "studio": "Kyoto Animation",
+        "tags": [
+          "Shounen",
+          "Slice of Life",
+          "Based on a Novel"
+        ],
+        "rating": "3.77",
+        "year": "2012",
+        "description": "Houtarou's sister returns home, and sets her lethargic brother up with a temporary job filling in as a lifeguard at the city pool. Satoshi invites Eru and Mayaka out to see Hotaro at work, and the ...",
+        "similarity": 17.1,
+        "search_query": "Hyouka: What Should Be Had"
+      },
+      {
+        "rank": 10,
+        "name": "Munto Movie: Tenjoubito to Akutobito Saigo no Tatakai",
+        "japanese_name": " Munto: The Movie",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Kyoto Animation",
+        "tags": [
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Magic"
+        ],
+        "rating": "3.63",
+        "year": "2009",
+        "description": "Himemi has gone to the world of the Heavenloids with Munto, the Magical King, so she can save both his world and her own. Little does she know that the most difficult part won't be facing the dange...",
+        "similarity": 16.7,
+        "search_query": "Munto Movie: Tenjoubito to Akutobito Saigo no Tatakai"
+      }
+    ]
+  },
+  "fullmetal alchemist: brotherhood": {
+    "info": {
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "studio": "Bones",
+      "type": "TV",
+      "rating": "4.58"
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "name": "Fullmetal Alchemist",
+        "japanese_name": " Hagane no Renkinjutsushi",
+        "type": "TV",
+        "episodes": "51",
+        "studio": "Bones",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "rating": "4.22",
+        "year": "2003",
+        "description": "Once upon a time, two brothers passed the happy days of their childhood by studying alchemy, which is governed by the equal transfer principle: an eye for an eye -- you can't get more than you give...",
+        "similarity": 49.3,
+        "search_query": "Fullmetal Alchemist"
+      },
+      {
+        "rank": 2,
+        "name": "Fullmetal Alchemist The Movie: Conqueror of Shamballa",
+        "japanese_name": " Hagane no Renkinjutsushi Movie: Shanbara wo Yuku Mono",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Bones",
+        "tags": [
+          "Shounen",
+          "Europe",
+          "Historical",
+          "Siblings"
+        ],
+        "rating": "3.94",
+        "year": "2005",
+        "description": "Edward Elric disobeyed the laws of conservation by committing a taboo in alchemy, and for that his body and soul are no longer a part of his world. The parallel world where Ed now exists is a place...",
+        "similarity": 41.9,
+        "search_query": "Fullmetal Alchemist The Movie: Conqueror of Shamballa"
+      },
+      {
+        "rank": 3,
+        "name": "Fullmetal Alchemist: Brotherhood Specials",
+        "japanese_name": " Hagane no Renkinjutsushi: Brotherhood Specials",
+        "type": "DVD S",
+        "episodes": "",
+        "studio": "Bones",
+        "tags": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ],
+        "rating": "4.11",
+        "year": "2009",
+        "description": "While on their travels, Edward and Alphonse Elric hear rumors of an alchemist named Judau who has succeeded in human transmutation. Thinking that it may help them regain their former bodies the pai...",
+        "similarity": 38.3,
+        "search_query": "Fullmetal Alchemist: Brotherhood Specials"
+      },
+      {
+        "rank": 4,
+        "name": "Fullmetal Alchemist: Brotherhood: 4-Koma Theater",
+        "japanese_name": "",
+        "type": "DVD S",
+        "episodes": "",
+        "studio": "Bones",
+        "tags": [
+          "Comedy",
+          "Shounen",
+          "Gag",
+          "Picture Drama"
+        ],
+        "rating": "3.85",
+        "year": "2009",
+        "description": "The cast of Fullmetal Alchemist aren\u2019t always as serious as they appear to be; even they need to have fun from time to time. Whether Hawkeye manages to find a novel method for defeating the \u201cInvinc...",
+        "similarity": 34.9,
+        "search_query": "Fullmetal Alchemist: Brotherhood: 4-Koma Theater"
+      },
+      {
+        "rank": 5,
+        "name": "Fullmetal Alchemist: Premium Collection",
+        "japanese_name": " Hagane no Renkinjutsushi: Premium Collection",
+        "type": "OVA",
+        "episodes": "3",
+        "studio": "Bones",
+        "tags": [
+          "Action",
+          "Comedy",
+          "Fantasy",
+          "Shounen"
+        ],
+        "rating": "3.82",
+        "year": "2006",
+        "description": "Amestris\u2019 entire army of State Alchemists is heading to a remote location to join Ed and Al in an all-out battle against the homunculi. With a new and slightly nervous rookie on board do the milita...",
+        "similarity": 33.9,
+        "search_query": "Fullmetal Alchemist: Premium Collection"
+      },
+      {
+        "rank": 6,
+        "name": "Fullmetal Alchemist: Reflections",
+        "japanese_name": " Hagane no Renkinjutsushi: Tabi no Hajimari",
+        "type": "DVD S",
+        "episodes": "",
+        "studio": "Bones",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "rating": "3.82",
+        "year": "2005",
+        "description": "A recap episode of the TV series, Fullmetal Alchemist.",
+        "similarity": 33.7,
+        "search_query": "Fullmetal Alchemist: Reflections"
+      },
+      {
+        "rank": 7,
+        "name": "Fullmetal Alchemist: The Sacred Star of Milos",
+        "japanese_name": " Hagane no Renkinjutsushi: Milos no Seinaru Hoshi",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Bones",
+        "tags": [
+          "Action",
+          "Fantasy",
+          "Shounen",
+          "Military"
+        ],
+        "rating": "3.83",
+        "year": "2011",
+        "description": "After following an escaped convict named Ashley Crichton to Table City, a town on the border of the neighbouring country Cleta, Ed and Al soon find that this is a much more complicated case than a ...",
+        "similarity": 32.9,
+        "search_query": "Fullmetal Alchemist: The Sacred Star of Milos"
+      },
+      {
+        "rank": 8,
+        "name": "Fullmetal Alchemist: The Sacred Star of Milos Specials",
+        "japanese_name": " Hagane no Renkinjutsushi: Milos no Sei-Naru Hoshi Specials",
+        "type": "DVD S",
+        "episodes": "",
+        "studio": "Bones",
+        "tags": [
+          "Comedy",
+          "Shounen",
+          "Siblings",
+          "Based on a Manga"
+        ],
+        "rating": "3.58",
+        "year": "2011",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 31.1,
+        "search_query": "Fullmetal Alchemist: The Sacred Star of Milos Specials"
+      },
+      {
+        "rank": 9,
+        "name": "Penguindrum",
+        "japanese_name": " Mawaru Penguindrum",
+        "type": "TV",
+        "episodes": "24",
+        "studio": "Brain's Base",
+        "tags": [
+          "Comedy",
+          "Drama",
+          "Conspiracy",
+          "Psychological"
+        ],
+        "rating": "3.87",
+        "year": "2011",
+        "description": "Kamba and Shouma Takakura have taken care of their sickly younger sister Himari since their parents disappeared years ago - that is, until the day she died. But as the boys grieve by her hospital b...",
+        "similarity": 20.5,
+        "search_query": "Penguindrum"
+      },
+      {
+        "rank": 10,
+        "name": "Casshern Sins",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "24",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Action",
+          "Sci Fi",
+          "Androids",
+          "Post-apocalyptic"
+        ],
+        "rating": "3.58",
+        "year": "2008",
+        "description": "In a dark future, the world is in ruin and everything is slowly crumbling away into dust. Humanity is almost extinct, while robots desperately seek out new parts to replace their rusting bodies. Th...",
+        "similarity": 20.0,
+        "search_query": "Casshern Sins"
+      }
+    ]
+  },
+  "jujutsu kaisen": {
+    "info": {
+      "name": "Jujutsu Kaisen",
+      "studio": "MAPPA",
+      "type": "TV",
+      "rating": "4.56"
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "name": "Jujutsu Kaisen 0",
+        "japanese_name": "",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "MAPPA",
+        "tags": [
+          "Action",
+          "Shounen",
+          "Curse",
+          "Exorcists"
+        ],
+        "rating": "4.18",
+        "year": "2021",
+        "description": "The one-shot pilot of the supernatural exorcist adventure\\xa0Jujutsu Kaisen! The story takes place a one year before Itadori's time, focusing on his upperclassmen at Jujutsu High--Maki, Panda, Toge...",
+        "similarity": 44.1,
+        "search_query": "Jujutsu Kaisen 0"
+      },
+      {
+        "rank": 2,
+        "name": "The God of High School",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "13",
+        "studio": "MAPPA",
+        "tags": [
+          "Action",
+          "Fantasy",
+          "Hand to Hand Combat",
+          "Martial Arts"
+        ],
+        "rating": "3.94",
+        "year": "2020",
+        "description": "Jin Mori has proclaimed himself the strongest high schooler. His life changes when he\\'s invited to participate in \"God of High School,\" a tournament to determine the strongest high schooler of all...",
+        "similarity": 22.2,
+        "search_query": "The God of High School"
+      },
+      {
+        "rank": 3,
+        "name": "Eve: Kaikai Kitan",
+        "japanese_name": "",
+        "type": "Music",
+        "episodes": "",
+        "studio": "MAPPA",
+        "tags": [
+          "Action",
+          "Horror",
+          "Monsters",
+          "Supernatural"
+        ],
+        "rating": "4.19",
+        "year": "2020",
+        "description": "The official music video for Jujutsu Kaisen's\\xa0opening theme Kaikai Kitan, performed by Eve.",
+        "similarity": 16.2,
+        "search_query": "Eve: Kaikai Kitan"
+      },
+      {
+        "rank": 4,
+        "name": "Jujutsu Kaisen (2018)",
+        "japanese_name": "",
+        "type": "Web",
+        "episodes": "3",
+        "studio": "",
+        "tags": [
+          "Promotional",
+          "Short Episodes",
+          "Based on a Manga"
+        ],
+        "rating": "3.77",
+        "year": "2018",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 15.4,
+        "search_query": "Jujutsu Kaisen (2018)"
+      },
+      {
+        "rank": 5,
+        "name": "Hanayamata",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "12",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Comedy",
+          "Drama",
+          "Seinen",
+          "All-Girls School"
+        ],
+        "rating": "3.62",
+        "year": "2014",
+        "description": "Naru is a high school girl who is average in every way. She loves fairy tale heroines, though she\u2019s never had the courage to escape her ordinary life. One day, she sees Hannah, a transfer student, ...",
+        "similarity": 14.3,
+        "search_query": "Hanayamata"
+      },
+      {
+        "rank": 6,
+        "name": "Haikyuu!! To the Top: Part II",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "12",
+        "studio": "Production I.G",
+        "tags": [
+          "Shounen",
+          "Sports",
+          "Animeism",
+          "School Club"
+        ],
+        "rating": "4.50",
+        "year": "2020",
+        "description": "Continuation of Haikyuu!! To the Top.",
+        "similarity": 13.8,
+        "search_query": "Haikyuu!! To the Top: Part II"
+      },
+      {
+        "rank": 7,
+        "name": "Garo: Vanishing Line",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "24",
+        "studio": "MAPPA",
+        "tags": [
+          "Action",
+          "Fantasy",
+          "Mystery",
+          "Sci Fi"
+        ],
+        "rating": "3.56",
+        "year": "2017",
+        "description": "Highly advanced town - Russel City. While people enjoy its prosperity in the town, there is a huge conspiracy secretly going on which will shake the world. Sword, a man who notices its movement det...",
+        "similarity": 13.8,
+        "search_query": "Garo: Vanishing Line"
+      },
+      {
+        "rank": 8,
+        "name": "Classroom\u2606Crisis",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "13",
+        "studio": "Lay-duce",
+        "tags": [
+          "Comedy",
+          "Sci Fi",
+          "Animeism",
+          "School Life"
+        ],
+        "rating": "3.37",
+        "year": "2015",
+        "description": "With aims to one day reach out into the stars, humanity has colonized all the planets of the solar system.\\xa0This story of young high school hopefuls is set in Fourth Tokyo in a Japanese Martian p...",
+        "similarity": 13.2,
+        "search_query": "Classroom\u2606Crisis"
+      },
+      {
+        "rank": 9,
+        "name": "Haikyuu!! Second Season",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "25",
+        "studio": "Production I.G",
+        "tags": [
+          "Shounen",
+          "Sports",
+          "School Club",
+          "School Life"
+        ],
+        "rating": "4.51",
+        "year": "2015",
+        "description": "After losing to Aoba Johsai at the Inter-High, the Karasuno High Volleyball Team is working their hardest toward the Spring Tournament. In the meantime, it's decided that they'll be\\xa0heading to T...",
+        "similarity": 13.1,
+        "search_query": "Haikyuu!! Second Season"
+      },
+      {
+        "rank": 10,
+        "name": "Room Camp",
+        "japanese_name": " Heya Camp",
+        "type": "TV",
+        "episodes": "12",
+        "studio": "C-Station",
+        "tags": [
+          "Adventure",
+          "Seinen",
+          "Slice of Life",
+          "School Club"
+        ],
+        "rating": "3.59",
+        "year": "2020",
+        "description": "The Outdoor Activities Club, Aka, the Outclub has 3 members. In the countryside of Yamanashi Prefecture, there\u2019s a high school named Motosu High School. Go even further to one of the school buildin...",
+        "similarity": 13.1,
+        "search_query": "Room Camp"
+      }
+    ]
+  },
+  "hunter x hunter (2011)": {
+    "info": {
+      "name": "Hunter x Hunter (2011)",
+      "studio": "MADHOUSE",
+      "type": "TV",
+      "rating": "4.51"
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "name": "Hunter x Hunter",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "62",
+        "studio": "Nippon Animation",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Shounen"
+        ],
+        "rating": "4.22",
+        "year": "1999",
+        "description": "Drawn to the mystique of the unknown, Hunters travel the world in search of terrifying creatures, incredible riches, and unexplored lands. Gon Freecss is a naive-yet-determined young boy who aspire...",
+        "similarity": 68.3,
+        "search_query": "Hunter x Hunter"
+      },
+      {
+        "rank": 2,
+        "name": "Hunter x Hunter: Jump Super Anime Tour 1998",
+        "japanese_name": " Hunter x Hunter Pilot",
+        "type": "Other",
+        "episodes": "",
+        "studio": "Pierrot",
+        "tags": [
+          "Adventure",
+          "Shounen",
+          "Based on a Manga"
+        ],
+        "rating": "3.72",
+        "year": "1998",
+        "description": "Drawn to the mystique of the unknown, Hunters travel the world in search of terrifying creatures, incredible riches, and unexplored lands. Gon Freecss is a naive-yet-determined young boy who aspire...",
+        "similarity": 47.9,
+        "search_query": "Hunter x Hunter: Jump Super Anime Tour 1998"
+      },
+      {
+        "rank": 3,
+        "name": "Hunter x Hunter: Phantom Rouge",
+        "japanese_name": "",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Shounen",
+          "Superpowers"
+        ],
+        "rating": "3.87",
+        "year": "2013",
+        "description": "Following the events of the Yorknew auction heist, Kurapika\u2019s quest to avenge his clan takes a distressing turn when his eyes are suddenly stolen - by a friend he thought was long dead! Notified of...",
+        "similarity": 42.9,
+        "search_query": "Hunter x Hunter: Phantom Rouge"
+      },
+      {
+        "rank": 4,
+        "name": "Hunter x Hunter: The Last Mission",
+        "japanese_name": "",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Action",
+          "Shounen",
+          "Superpowers",
+          "Based on a Manga"
+        ],
+        "rating": "3.86",
+        "year": "2013",
+        "description": "The Battle Olympia tournament at Heaven's Arena is about to begin! Gon, Killua, Kurapika and Leorio plan on watching the matches along with the other Hunters and VIPs in attendance. As they wait, a...",
+        "similarity": 38.7,
+        "search_query": "Hunter x Hunter: The Last Mission"
+      },
+      {
+        "rank": 5,
+        "name": "Hunter x Hunter OVA",
+        "japanese_name": "",
+        "type": "OVA",
+        "episodes": "8",
+        "studio": "Nippon Animation",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Shounen",
+          "Martial Arts"
+        ],
+        "rating": "4.20",
+        "year": "2002",
+        "description": "The time for the secret Yorkshire auction is near, and Kurapika's plans of revenge are at hand. By night, Gon, Killua, and Leorio must fight alongside him to protect the auction pieces and defeat t...",
+        "similarity": 35.3,
+        "search_query": "Hunter x Hunter OVA"
+      },
+      {
+        "rank": 6,
+        "name": "Hunter x Hunter OVA 3: Greed Island Final",
+        "japanese_name": "",
+        "type": "OVA",
+        "episodes": "14",
+        "studio": "Nippon Animation",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Shounen",
+          "Island"
+        ],
+        "rating": "4.25",
+        "year": "2004",
+        "description": "Gon and Killua continue their training with Biscuit as the Mad Bomber wreaks havoc upon the other players in Greed Island. As their strength increases, Gon and Killua also start searching for the h...",
+        "similarity": 33.8,
+        "search_query": "Hunter x Hunter OVA 3: Greed Island Final"
+      },
+      {
+        "rank": 7,
+        "name": "Hunter x Hunter OVA 2: Greed Island",
+        "japanese_name": "",
+        "type": "OVA",
+        "episodes": "8",
+        "studio": "Nippon Animation",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Shounen",
+          "Island"
+        ],
+        "rating": "4.22",
+        "year": "2003",
+        "description": "Gon and Killua finally have a means of which to enter Greed Island, a game designed just for Hunters. Are their Nen abilities strong enough to help them survive in this new world? They must now tra...",
+        "similarity": 33.5,
+        "search_query": "Hunter x Hunter OVA 2: Greed Island"
+      },
+      {
+        "rank": 8,
+        "name": "Himitsu: The Revelation",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "26",
+        "studio": "MADHOUSE",
+        "tags": [
+          "Drama",
+          "Mystery",
+          "Sci Fi",
+          "Shoujo"
+        ],
+        "rating": "3.47",
+        "year": "2008",
+        "description": "In the present, murders are solved not by investigations, but by memories. Using the removed brain of a victim, the members of Forensic Investigation Office Section Nine examine the person's last t...",
+        "similarity": 21.8,
+        "search_query": "Himitsu: The Revelation"
+      },
+      {
+        "rank": 9,
+        "name": "Kimi ni Todoke - From Me To You 2nd Season",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "12",
+        "studio": "Production I.G",
+        "tags": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Shoujo"
+        ],
+        "rating": "4.16",
+        "year": "2011",
+        "description": "It\u2019s now mid-February and, while Sawako continues to grow closer than ever to Chizu and Ayane, her relationship with Kazehaya has skidded to a halt, with both parties still unable to admit to their...",
+        "similarity": 21.6,
+        "search_query": "Kimi ni Todoke - From Me To You 2nd Season"
+      },
+      {
+        "rank": 10,
+        "name": "Gon 2nd Season",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "26",
+        "studio": "Daewon Media",
+        "tags": [
+          "Adventure",
+          "Comedy",
+          "Seinen",
+          "Animal Protagonists"
+        ],
+        "rating": "3.13",
+        "year": "2015",
+        "description": "Second season of Gon.",
+        "similarity": 20.9,
+        "search_query": "Gon 2nd Season"
+      }
+    ]
+  },
+  "spirited away": {
+    "info": {
+      "name": "Spirited Away",
+      "studio": "Studio Ghibli",
+      "type": "Movie",
+      "rating": "4.45"
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "name": "Kuusou no Sora Tobu Kikai-tachi",
+        "japanese_name": "",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Studio Ghibli",
+        "tags": [
+          "Fantasy",
+          "Ghibli Museum Shorts",
+          "Historical",
+          "Shorts"
+        ],
+        "rating": "3.50",
+        "year": "2002",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 46.4,
+        "search_query": "Kuusou no Sora Tobu Kikai-tachi"
+      },
+      {
+        "rank": 2,
+        "name": "Princess Mononoke",
+        "japanese_name": " Mononoke Hime",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Studio Ghibli",
+        "tags": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Curse"
+        ],
+        "rating": "4.36",
+        "year": "1997",
+        "description": "With the rise of the Iron Age in feudal Japan, man and nature grow increasingly at odds. As mankind infringes more and more into the kingdom of the beasts, many of the elder animal gods begin to su...",
+        "similarity": 34.3,
+        "search_query": "Princess Mononoke"
+      },
+      {
+        "rank": 3,
+        "name": "Howl's Moving Castle",
+        "japanese_name": " Howl no Ugoku Shiro",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Studio Ghibli",
+        "tags": [
+          "Adventure",
+          "Fantasy",
+          "Romance",
+          "Curse"
+        ],
+        "rating": "4.43",
+        "year": "2004",
+        "description": "The responsible Sophie led a relatively normal life, safe within the walls of the hat shop in which she works; for outside, it is rumored, the evil wizard Howl roams the land in his mobile black ca...",
+        "similarity": 33.3,
+        "search_query": "Howl's Moving Castle"
+      },
+      {
+        "rank": 4,
+        "name": "My Neighbor Totoro",
+        "japanese_name": " Tonari no Totoro",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Studio Ghibli",
+        "tags": [
+          "Fantasy",
+          "Slice of Life",
+          "Contemporary Fantasy",
+          "Countryside"
+        ],
+        "rating": "4.25",
+        "year": "1988",
+        "description": "Satsuki, her younger sister Mei and their father have just moved to their new home in the countryside, where grand adventures await them. One day while playing outside in the garden Mei encounters ...",
+        "similarity": 29.3,
+        "search_query": "My Neighbor Totoro"
+      },
+      {
+        "rank": 5,
+        "name": "Wonderful World: Ganmen Shintaisou",
+        "japanese_name": " Minna no Uta: Wonderful World: Ganmen Shintaisou",
+        "type": "Music",
+        "episodes": "",
+        "studio": "",
+        "tags": [
+          "Family Friendly",
+          "Minna no Uta"
+        ],
+        "rating": "3.10",
+        "year": "1989",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 27.3,
+        "search_query": "Wonderful World: Ganmen Shintaisou"
+      },
+      {
+        "rank": 6,
+        "name": "Tales from Earthsea",
+        "japanese_name": " Gedo Senki",
+        "type": "Movie",
+        "episodes": "",
+        "studio": "Studio Ghibli",
+        "tags": [
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Based on a Novel"
+        ],
+        "rating": "3.53",
+        "year": "2006",
+        "description": "In the lush fantasy world of Earthsea, dragons and humans no longer live together as one due to the greed of humanity. It is in this world that the young Prince Arren lives \u2013 a young man who is dej...",
+        "similarity": 26.4,
+        "search_query": "Tales from Earthsea"
+      },
+      {
+        "rank": 7,
+        "name": "Shelter",
+        "japanese_name": "",
+        "type": "Music",
+        "episodes": "",
+        "studio": "A-1 Pictures",
+        "tags": [
+          "Drama",
+          "Sci Fi",
+          "Loneliness",
+          "Virtual Reality"
+        ],
+        "rating": "4.24",
+        "year": "2016",
+        "description": "SHELTER, tells the story of Rin, a 17-year-old girl who lives her life inside of a futuristic simulation completely by herself in infinite, beautiful loneliness. Each day, Rin awakens in virtual re...",
+        "similarity": 26.4,
+        "search_query": "Shelter"
+      },
+      {
+        "rank": 8,
+        "name": "Argonavis from BanG Dream! Animation",
+        "japanese_name": "",
+        "type": "TV",
+        "episodes": "13",
+        "studio": "SANZIGEN",
+        "tags": [
+          "Music",
+          "Showbiz"
+        ],
+        "rating": "3.48",
+        "year": "2020",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 26.0,
+        "search_query": "Argonavis from BanG Dream! Animation"
+      },
+      {
+        "rank": 9,
+        "name": "Nanatsu no Umi",
+        "japanese_name": " Minna no Uta: Nanatsu no Umi",
+        "type": "Music",
+        "episodes": "",
+        "studio": "",
+        "tags": [
+          "Family Friendly",
+          "Minna no Uta",
+          "Ocean",
+          "Ship"
+        ],
+        "rating": "N/A",
+        "year": "2013",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 25.7,
+        "search_query": "Nanatsu no Umi"
+      },
+      {
+        "rank": 10,
+        "name": "Hare Butai",
+        "japanese_name": " Minna no Uta: Hare Butai",
+        "type": "Music",
+        "episodes": "",
+        "studio": "Spooky Graphic",
+        "tags": [
+          "Family Friendly",
+          "Minna no Uta"
+        ],
+        "rating": "N/A",
+        "year": "2008",
+        "description": "No synopsis yet - check back soon!",
+        "similarity": 25.7,
+        "search_query": "Hare Butai"
+      }
+    ]
+  }
+}
