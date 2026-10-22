@@ -10,13 +10,9 @@ A content-based recommendation web application that suggests similar anime title
 
 ---
 
-## 📸 Screenshots
+## 📸 Application Preview
 
-### 🔍 Interactive Search Interface
-![Search Interface](screenshots/preview.png)
-
-### 🎴 Top 10 Ranked Recommendation Cards
-![Recommendation Results](screenshots/results.png)
+![AnimeSync Application Preview](screenshots/preview.png)
 
 ---
 
@@ -66,8 +62,7 @@ A content-based recommendation web application that suggests similar anime title
 
 ```text
 ├── screenshots/
-│   ├── preview.png          # UI search interface screenshot
-│   └── results.png          # Recommendation cards screenshot
+│   └── preview.png          # Clean UI preview screenshot
 ├── static/
 │   └── style.css            # Modern dark glassmorphic styling
 ├── templates/
